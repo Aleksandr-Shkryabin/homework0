@@ -1,0 +1,13 @@
+name= 'это моя строка'
+print(name[0])
+name= 'это моя строка'
+print(name[-1])
+name= 'это моя строка'
+print(name[2:5])
+name= 'это моя строка'
+print(name[::-1])
+name= 'это моя строка'
+print (len(name))
+name1='это новая строка'
+name2= 'это моя строка'
+print (name1 + name2)
